@@ -16,6 +16,11 @@ To do?
 
 
 
+![당사_채점표](https://user-images.githubusercontent.com/63245973/189065067-4b0bb3c4-ee31-4eea-b9bc-aea4a1926423.png)
+
+
+![당사_흐름도](https://user-images.githubusercontent.com/63245973/189065074-957ddb20-9c0a-41d2-99c2-bf7e30944516.png)
+
 
 이미지 유사도 판단? 몇 %?
 
