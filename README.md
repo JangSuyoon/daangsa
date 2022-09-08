@@ -1,19 +1,21 @@
 # daangsa
 OSSC Spring 2022 
 
+Title
+인공지능 기술을 활용한 중고마켓 허위매물 필터링 시스템
+
 
 To do?
-- 
+- Google Chrome Extension Program UI/UX Design
 - Web Crawling - using BeautifulSoup package
 - using Selenium Package
 - JavaScript
 - Get access to blocked website
+- Crawling Data Charting with Python
+- Extract the post information, csvize it, and save it (price, number of reviews, user information, title, url)
 
-Apr 13th
 
-1. Create Repo.
-2. Setting Basic HTML form
-3. 
+
 
 이미지 유사도 판단? 몇 %?
 
@@ -24,15 +26,7 @@ Selenium Crawler Reference
     https://pythondocs.net/selenium/%EC%85%80%EB%A0%88%EB%8B%88%EC%9B%80-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95/
 
 
-Apr 14th
-1. 
-2. 
-3. 
 
-Apr 15th
-1. 
-2. 
-3. 
 
 Reference
 1. id/class, div/span difference?
