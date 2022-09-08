@@ -5,7 +5,7 @@ OSSC Spring 2022
 인공지능 기술을 활용한 중고마켓 허위매물 필터링 시스템
 
 
-To do?
+## To do?
 - Google Chrome Extension Program UI/UX Design
 - Web Crawling - using BeautifulSoup package
 - using Selenium Package
@@ -16,10 +16,16 @@ To do?
 
 
 
+## Base Project 구성 및 특징
+9점 만점 기준으로 6점 이상의 매물들은 허위 매물로 판단하여 경고문 송출
 ![당사_채점표](https://user-images.githubusercontent.com/63245973/189065067-4b0bb3c4-ee31-4eea-b9bc-aea4a1926423.png)
 
-
+## Program Flowchart
 ![당사_흐름도](https://user-images.githubusercontent.com/63245973/189065074-957ddb20-9c0a-41d2-99c2-bf7e30944516.png)
+
+  
+    
+    
 
 
 이미지 유사도 판단? 몇 %?
